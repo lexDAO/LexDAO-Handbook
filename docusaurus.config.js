@@ -10,10 +10,10 @@ module.exports = {
   projectName: 'lexdao-handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'LexDAO',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'LexDAO Logo',
+        src: 'img/Logo.svg',
       },
       items: [
         {

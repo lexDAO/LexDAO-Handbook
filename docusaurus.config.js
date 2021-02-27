@@ -22,9 +22,13 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://lexdao.coop',
+          label: 'Home',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/lexDAO',
           label: 'GitHub',
           position: 'right',
         },

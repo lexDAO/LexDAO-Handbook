@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Information: ['mission', 'join'],
+    Information: ['welcome','mission', 'join'],
   },
 };

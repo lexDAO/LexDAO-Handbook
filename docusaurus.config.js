@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://lexdao.club',
+  title: 'LexDAO',
+  tagline: 'The Decentralized Legal Engineering Guild Handbook',
+  url: 'https://lexdao.coop',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',

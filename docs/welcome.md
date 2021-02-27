@@ -5,7 +5,7 @@ sidebar_label: Welcome
 slug: /welcome
 ---
 
-# Welcome to the LexDAO Handbook
+### Welcome to the LexDAO Handbook
 
 This is where you'll find more info about what we're about, how to join, and other future information.
 

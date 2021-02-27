@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'The tagline of my site',
   url: 'https://lexdao.club',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'lexdao', // Usually your GitHub org/user name.

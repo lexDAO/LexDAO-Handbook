@@ -1,3 +1,0 @@
-# Voting Procedures & Processes
-
-Waddup?

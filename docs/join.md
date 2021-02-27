@@ -1,6 +1,8 @@
 ---
 id: join
 title: Join LexDAO
+sidebar_label: Join LexDAO
+slug: /join
 ---
 
 # How to join LexDAO!

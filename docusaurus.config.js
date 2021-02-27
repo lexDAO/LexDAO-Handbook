@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Logo.png',
   organizationName: 'lexdao', // Usually your GitHub org/user name.
   projectName: 'lexdao-handbook', // Usually your repo name.
   themeConfig: {

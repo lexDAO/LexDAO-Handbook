@@ -5,7 +5,7 @@ sidebar_label: Join LexDAO
 slug: /join
 ---
 
-# How to join LexDAO!
+## How to join LexDAO!
 
 ### Step 1: Fill out the "Join Us" form. 
 Found on https://lexdao.coop, this form will help us gather a bunch of the information we need to process your membership once you've cleared the rest of the process and so we can make LexDAO the best experience for everyone.

@@ -41,12 +41,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Mission',
               to: '/',
             },
             {
-              label: 'Second Doc',
-              to: '/doc2/',
+              label: 'Join LexDAO',
+              to: '/join/',
             },
           ],
         },

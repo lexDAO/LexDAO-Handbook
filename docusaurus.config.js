@@ -19,12 +19,12 @@ module.exports = {
         {
           to: '/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Handbook',
           position: 'left',
         },
         {
           href: 'https://lexdao.coop',
-          label: 'Home',
+          label: 'LexDAO Home',
           position: 'right',
         },
         {

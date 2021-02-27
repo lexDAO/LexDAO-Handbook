@@ -13,7 +13,7 @@ module.exports = {
       title: 'LexDAO',
       logo: {
         alt: 'LexDAO Logo',
-        src: 'img/Logo.svg',
+        src: 'img/Logo.png',
       },
       items: [
         {

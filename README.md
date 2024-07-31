@@ -1,3 +1,9 @@
+# Welcom 
+Welcome to the LexDAO Handbook. Inside, you may find the Operating System, links to relevant sources of truth, DAO resources, mapping, and materials
+
+# Design
+This Handbook is being updated to be a source of truth for the DAO Operating System and a hub for members and the public to become familiar with the DAO's history, and current operation.
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.

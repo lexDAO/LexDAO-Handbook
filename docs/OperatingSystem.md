@@ -2,8 +2,10 @@
 
 |  Adopted  Feb 6, 2022  | [https://snapshot.org/\#/lexdao.eth/proposal/0x487e5ce98092b1a11b65bbfaa52a3f40a7285150e36ec0facedade7fc3d967de](https://snapshot.org/\#/lexdao.eth/proposal/0x487e5ce98092b1a11b65bbfaa52a3f40a7285150e36ec0facedade7fc3d967de) [https://snapshot.4everland.link/ipfs/QmRdgWNnsKsG9eUAjDnog77s1PW8fp14nJy5cGCCCWirGa](https://snapshot.4everland.link/ipfs/QmRdgWNnsKsG9eUAjDnog77s1PW8fp14nJy5cGCCCWirGa) |
 | :---- | :---- |
-| Ratified in ConstitutionJune 29, 2022 | [https://snapshot.org/\#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d](https://snapshot.org/\#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d) [https://snapshot.4everland.link/ipfs/QmaDQPtwRJT9V4nnwojHPt7MW4bp78e5ctgwdjbj5WcWax](https://snapshot.4everland.link/ipfs/QmaDQPtwRJT9V4nnwojHPt7MW4bp78e5ctgwdjbj5WcWax)  |
-|  |  |
+| Ratified in Constitution June 29, 2022 | [https://snapshot.org/\#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d](https://snapshot.org/\#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d) [https://snapshot.4everland.link/ipfs/QmaDQPtwRJT9V4nnwojHPt7MW4bp78e5ctgwdjbj5WcWax](https://snapshot.4everland.link/ipfs/QmaDQPtwRJT9V4nnwojHPt7MW4bp78e5ctgwdjbj5WcWax)  |
+| Under Revision | Q3 2024 |
+| 
+
 
 [Operating System](\#operating-system)
 

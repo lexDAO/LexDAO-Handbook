@@ -1,4 +1,4 @@
-# Welcom 
+# Welcome 
 Welcome to the LexDAO Handbook. Inside, you may find the Operating System, links to relevant sources of truth, DAO resources, mapping, and materials
 
 # Design
